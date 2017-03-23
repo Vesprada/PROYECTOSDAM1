@@ -8,6 +8,7 @@ package cuenta;
 * @since   15/02/2017 
 */
 import java.util.*;
+// sóc aarón.
 
 public class CCorriente {
 	public static Scanner lector=new Scanner (System.in); //Importem el scanner 
